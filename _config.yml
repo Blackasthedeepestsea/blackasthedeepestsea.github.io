@@ -9,10 +9,9 @@
 title: "I AM LEGEND"
 email: LEGEND@LEGEND.COM
 description: > # this means to ignore newlines until "baseurl:"
-  THE MOST AMAZING WEBSITE YOU'VE EVER SEEN
+          MOST AMAZING WEBSite YOU'VE SEEN
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
 github_username:  blackasthedeepestsea
 
 # Build settings
